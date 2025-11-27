@@ -2,9 +2,9 @@
 
 Problems & my Write-up of GeekGame 2024
 
-### 比赛介绍
+## 比赛介绍
 
-##### 2024“京华杯”信息安全综合能力竞赛
+### 2024“京华杯”信息安全综合能力竞赛
 
 2024 年 10 月 12 日（周六）~ 19 日（周六）
 
@@ -19,7 +19,7 @@ Problems & my Write-up of GeekGame 2024
 - **Binary:** 二进制安全（逆向工程、程序调试等）
 - **Algorithm:** 算法安全（密码学、算法设计分析等）
 
-##### 奖项设置
+### 奖项设置
 
 **除签到题外，每个 Flag 设 512 元奖金，解出该 Flag 的选手平分该题奖金额（向下取整）。**
 
@@ -36,7 +36,7 @@ Problems & my Write-up of GeekGame 2024
 - 若获得的奖金在 500 元及以上，则需要参与线下环节才可领取超过 500 元部分的奖金额。
 - 以上获奖证书均由清华大学信息化工作办公室、清华大学网络科学与网络空间研究院签发。
 
-##### 赛程安排
+### 赛程安排
 
 比赛时间为 **2024 年 10 月 12 日（周六）12:00 到 19 日（周六）12:00**，持续一周。 选手需要独立解决与安全相关的谜题获得答案。在比赛结束前可以随时登录 geekgame.pku.edu.cn 参赛。
 
@@ -44,9 +44,13 @@ Problems & my Write-up of GeekGame 2024
 
 北京大学、清华大学校内排名前 33 的选手需要在 20 日（周日）23:00 前提交每道解出题目的解题报告（Writeup），其他选手可以自愿提交。比赛结束后将举办颁奖典礼，并公开官方 Writeup 和部分优秀选手 Writeup。
 
-##### 资料推荐
+### 资料推荐
 
 - 往届 PKU GeekGame 资料存档（[第三届](https://github.com/PKU-GeekGame/geekgame-3rd)、[第二届](https://github.com/PKU-GeekGame/geekgame-2nd)、[第一届](https://github.com/PKU-GeekGame/geekgame-1st)、[第零届](https://github.com/PKU-GeekGame/geekgame-0th)）
 - [中国科学技术大学 Hackergame](https://hack.lug.ustc.edu.cn/)
 - [CTF Wiki](https://ctf-wiki.org/)
 - 《深入理解计算机系统》等相关书籍
+
+## 官方资料存档
+
+[PKU-GeekGame/geekgame-4th](https://github.com/PKU-GeekGame/geekgame-4th)

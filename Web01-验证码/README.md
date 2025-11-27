@@ -1,6 +1,7 @@
 ### 题面
 
-![img](https://geekgame.pku.edu.cn/media/web-copy-captcha.webp)
+![img](https://raw.githubusercontent.com/PKU-GeekGame/geekgame-4th/master/official_writeup/web-copy/media/web-copy-captcha.webp)
+
 ↑ 图四取自某 TOP2 高校内部系统
 
 不会吧，不会真有网站用 CSS 显示验证码吧？看我直接复制……诶，竟然**不许复制？**

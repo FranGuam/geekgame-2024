@@ -8,7 +8,8 @@
 
 于是，长久以来，他变得相信可以“一招鲜，吃遍天”，直到有一天……
 
-![img](https://geekgame.pku.edu.cn/media/algo-complexity-death_of_spfa.webp)
+![img](https://raw.githubusercontent.com/PKU-GeekGame/geekgame-4th/master/official_writeup/algo-complexity/media/algo-complexity-death_of_spfa.webp)
+
 ↑ 此图在二压后码率减小了 85%，插图清晰度变糊不是你的错觉
 
 和毒瘤出题人签订契约，**卡掉 SPFA 和 Dinic 算法**吧。

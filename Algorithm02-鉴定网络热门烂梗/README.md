@@ -2,7 +2,8 @@
 
 根据摩尔定律，每过 18 个月，GeekGame 题面里的网络热门烂梗含量就会翻一倍。面对题面里越来越多的烂梗，选手们纷纷表示：**下次多来点。**
 
-![img](https://geekgame.pku.edu.cn/media/algo-gzip-survey.webp)
+![img](https://raw.githubusercontent.com/PKU-GeekGame/geekgame-4th/master/official_writeup/algo-gzip/media/algo-gzip-survey.webp)
+
 ↑ 数据来自上届选手反馈
 
 尽管如此，低质量的烂梗由于不包含任何有效信息，还是令一些人感到不适。为了鉴别梗的质量，我们从校际和平公司订购了最新产品——烂梗混淆器：
@@ -13,7 +14,7 @@
 
 **提示：**
 
-- ![img](https://geekgame.pku.edu.cn/media/algo-gzip-comment.webp)
+- ![img](https://raw.githubusercontent.com/PKU-GeekGame/geekgame-4th/master/official_writeup/algo-gzip/media/algo-gzip-comment.webp)
 - 无需关注编码过程的实现细节，也可以控制编码结果的一些性质保持不变。找个纯 Python 实现的 gzip **解码器** 就足以解出此题。
 - 具体来说，可以试着把产生的 Huffman 表控制为等长的（每个字符都转换为同样多个比特）。两个 Flag 都可以在这个情况下解出。
 
